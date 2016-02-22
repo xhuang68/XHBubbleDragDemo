@@ -14,7 +14,7 @@ XHbubbleView is the UI components(circle bubble) with drag and disappear effect.
 ####Init
 New a BubbleOptions strcut.  
 
-```
+```swift
 struct BubbleOptions {
     var text: String = ""
     var bubbleWidth: CGFloat = 0.0
@@ -29,24 +29,24 @@ option.bubbleColor = bubbleColor
 ```  
 Initiate the XHBubbleView  .
 
-```
+```swift
 let bubbleView = XHBubbleView(point: CGPoint, superView: UIView, options: BubbleOptions, enableSound: Bool, enableDisappear: Bool)
 ```
 ####Disappear & Sound Option
 Bubble disappear when drap reach the viscosity limit:  
 
-```
+```swift
 bubbleView.disappearEnable = true
 ```
 Bubble bounce back when drap reach the viscosity limit:  
 
-```
+```swift
 bubbleView.disappearEnable = false
 ```
 
 Bubble disappear with sound effect:  
 
-```
+```swift
 bubbleView.soundEnable = true
 ```
 

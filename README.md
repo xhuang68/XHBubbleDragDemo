@@ -1,5 +1,6 @@
 ###XHBubbleView
 ---
+![logo](./bubble.png)  
 XHbubbleView is the UI components(circle bubble) with drag and disappear effect. This is a implementation of one UI functionality from Tencent QQ application.  
 ![qqbubble](./bubble_QQ.gif)
 ####Demo

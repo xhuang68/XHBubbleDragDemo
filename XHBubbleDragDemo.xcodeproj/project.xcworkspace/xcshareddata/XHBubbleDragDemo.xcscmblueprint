@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CCF57F25B1D76A035F20973AA42DFBBC64440C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "38F7D0435955DFD1D50DBC02D5F6CBFEC80BE3A6" : 0,
+    "2CCF57F25B1D76A035F20973AA42DFBBC64440C2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3386FCB7-D233-4A05-8178-B2475C180D33",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "38F7D0435955DFD1D50DBC02D5F6CBFEC80BE3A6" : "",
+    "2CCF57F25B1D76A035F20973AA42DFBBC64440C2" : "XHBubbleDragDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XHBubbleDragDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XHBubbleDragDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xhuang68\/XHBubbleDragDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CCF57F25B1D76A035F20973AA42DFBBC64440C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xhuang89\/xhuang89.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "38F7D0435955DFD1D50DBC02D5F6CBFEC80BE3A6"
+    }
+  ]
+}

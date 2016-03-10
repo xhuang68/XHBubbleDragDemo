@@ -1,18 +1,18 @@
-###XHBubbleView
+#XHBubbleView
 ---
 ![logo](./bubble.png)  
 XHbubbleView is the UI components(circle bubble) with drag and disappear effect. This is a implementation of one UI functionality from Tencent QQ application.  
 ![qqbubble](./bubble_QQ.gif)
-####Demo
+##Demo
 ---
 ![demo](./demo.gif)  
-####Addition Implementation
+###Addition Implementation
 *	Bubble float effect: **XHBubbleView Extension**
 *	Bubble disappear animation: **XHSmokePuffImageView**
 
-####Usage
+##Usage
 ---
-####Init
+###Init
 New a BubbleOptions strcut.  
 
 ```swift
@@ -33,7 +33,7 @@ Initiate the XHBubbleView  .
 ```swift
 let bubbleView = XHBubbleView(point: CGPoint, superView: UIView, options: BubbleOptions, enableSound: Bool, enableDisappear: Bool)
 ```
-####Disappear & Sound Option
+###Disappear & Sound Option
 Bubble disappear when drap reach the viscosity limit:  
 
 ```swift
@@ -51,11 +51,11 @@ Bubble disappear with sound effect:
 bubbleView.soundEnable = true
 ```
 
-####Installation
+##Installation
 ---
 Copy **XHBubbleView.swift** to your project.  
 
-####Additional Installation
+###Additional Installation
 If you wanna enable bubble disappear effect, please copy all of he below file to your project:  
 
 *	**XHSmokePuffImageView.swfit**  
